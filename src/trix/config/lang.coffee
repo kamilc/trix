@@ -1,5 +1,6 @@
 Trix.config.lang =
   attachFiles: "Attach Files"
+  placeholder: "Placeholder"
   bold: "Bold"
   bullets: "Bullets"
   byte:  "Byte"

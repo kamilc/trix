@@ -11,8 +11,8 @@ Trix.config.textAttributes =
     parser: (element) ->
       style = window.getComputedStyle(element)
       style["fontStyle"] is "italic"
-  tag:
-    tagName: "span"
+  placeholder:
+    tagName: "i"
     inheritable: true
   href:
     groupTagName: "a"
